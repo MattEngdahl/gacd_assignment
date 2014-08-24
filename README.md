@@ -29,3 +29,5 @@ The script, run_analysis.R, performs the following tasks:
 The output file, final_data.txt, can be read into R using:
 final_data <- read.table("final_data.txt", sep=",", header=TRUE)
 
+For further information about final_data.txt and the included variables, see codebook.md which is part of this repo.
+
